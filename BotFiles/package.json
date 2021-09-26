@@ -1,0 +1,31 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/form-data": "^3.0.1",
+    "better-sqlite3": "^7.4.3",
+    "canvas": "^2.8.0",
+    "discord-anti-spam": "2.5.0",
+    "discord-prefix": "^3.0.0",
+    "discord.js": "^12.4.1",
+    "express": "^4.17.1",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^3.0.0",
+    "flatted": "^3.0.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "node-fetch": "^2.6.1",
+    "papaparse": "^5.2.0",
+    "random-puppy": "^1.1.0",
+    "scrape-youtube": "^2.1.9",
+    "setimmediate": "^1.0.5",
+    "winston": "^3.2.1",
+    "ytdl-core": "^4.9.1"
+  }
+}
